@@ -168,6 +168,8 @@ ENV*/
 # mypy
 .mypy_cache/
 
+myenv
+
 
 # https://github.com/github/gitignore/blob/master/Global/macOS.gitignore -----------------------------------------------
 
